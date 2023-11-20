@@ -1,0 +1,10 @@
+com\upc\curso\repositories\UsuarioRepository.class
+com\upc\curso\controller\Controlador.class
+com\upc\curso\entidades\Usuario.class
+com\upc\curso\dtos\UsuarioDTO.class
+com\upc\curso\interfaceservice\UsuarioService.class
+com\upc\curso\entidades\ListaDeAutos.class
+com\upc\curso\entidades\Auto.class
+com\upc\curso\entidades\Gestor.class
+com\upc\curso\JpaProductosApiApplication.class
+com\upc\curso\services\UsuarioServiceImpl.class
