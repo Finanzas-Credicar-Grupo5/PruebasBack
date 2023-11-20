@@ -8,3 +8,4 @@ com\upc\curso\entidades\Auto.class
 com\upc\curso\entidades\Gestor.class
 com\upc\curso\JpaProductosApiApplication.class
 com\upc\curso\services\UsuarioServiceImpl.class
+com\upc\curso\Utiil\CORS.class
